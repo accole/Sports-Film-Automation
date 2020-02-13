@@ -1,5 +1,4 @@
 # Sports-Film-Automation
-Automating repetitive spreadsheet work for tags in Sports Film in Python3
 
 After tagging a filmed game using Dartfish, excel sheets containing the timestamped tags must be edited.
 
