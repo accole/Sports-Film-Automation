@@ -20,10 +20,10 @@ After editing, the file must be saved as a tab delimited .txt file.
 
 Example for UCLA (D) vs USC (W) tagged on mobile app:
 
-***$ python3 replace.py -d UCLA -w USC 'PATH_TO_FOLDER'
+***$ python3 replace.py -d UCLA -w USC 'PATH_TO_FOLDER'***
 
 Example for Stanford (D) vs UCSB (W) tagged in dartfish:
 
-***$ python3 replace.py -d Stanford -w UCSB -l 'PATH_TO_FOLDER'
+***$ python3 replace.py -d Stanford -w UCSB -l 'PATH_TO_FOLDER'***
   
    *All CSV files in FOLDER must have same encoding, if they differ replace.py will only replace some of the tags
